@@ -15,7 +15,6 @@ Para más detalles, consulta:
 - **Pytest** : Framework para escribir y ejecutar pruebas.  
 - **Requests** : Librería para interactuar con la API.  
 - **Git y GitHub** : Control de versiones y almacenamiento del código.  
-- **Metodología TDD** : Desarrollo basado en pruebas automatizadas.  
 
 ## Reglas y Pasos para Ejecutar las Pruebas
 
